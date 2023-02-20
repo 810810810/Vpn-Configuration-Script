@@ -1,9 +1,3 @@
-
-OpenVPN Server Setup.
-
-Model: Default
-
-Austin Persaud
 #!/bin/bash
 
 # Update the system
